@@ -10,6 +10,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Skills
 
+- Back-end Development: proficient in Java and Python
+
+## Tecnologies
+
 - Python : FastApi | Django | Pandas | Numpy | Matplotlib
 - HTML
 - CSS
