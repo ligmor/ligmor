@@ -39,11 +39,4 @@ I am a Software Engineer with a passion for building scalable and secure applica
 <!-- - **Python** - [Online Certificate](#) -->
 <!-- - **Docker** - [Online Certificate](#) -->
 <!-- - **Database Management** - [Online Certificate](#) -->
-
----
-
-## Contact
-
-- 📞 **Phone**: +33(0) 6 95 51 13 55
-- 📧 **Email**: [vmorlig@gmail.com](mailto:vmorlig@gmail.com)
 <!-- - 🌐 **LinkedIn**: [My profile](#) -->
